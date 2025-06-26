@@ -44,3 +44,44 @@ Functionality represents interactive elements like search bars, forms, sliders, 
 ---
 
 Wireframes serve as the blueprint for building intuitive, functional, and user-friendly digital experiences. By focusing on structure and functionality, they help teams align on ideas before diving into detailed design or development.
+## Types of Wireframes
+
+Wireframes come in different levels of detail, commonly categorized as **low-fidelity** and **high-fidelity**. Each serves a specific purpose at different stages of the design process.
+
+### 1. Low-Fidelity Wireframes
+
+Low-fidelity (lo-fi) wireframes are basic, often hand-drawn or created with simple digital tools. They focus on the general layout and structure without including detailed design elements.
+
+**Key Features:**
+- Simple shapes (boxes, lines, placeholders)
+- No colors, fonts, or images
+- Minimal text (often lorem ipsum or labels like “Header” or “Image”)
+
+**When to Use:**
+- **Early in the design process**
+- For **brainstorming ideas** and rapid prototyping
+- When seeking **quick feedback** on layout and user flow
+
+**Example Use Case:** Sketching a new landing page concept during a team meeting to agree on structure before visual design begins.
+
+---
+
+### 2. High-Fidelity Wireframes
+
+High-fidelity (hi-fi) wireframes are more detailed and closely resemble the final product. They may include real content, fonts, images, and interactive elements.
+
+**Key Features:**
+- Accurate spacing and alignment
+- Specific typography and design styles
+- Detailed components (buttons, forms, icons)
+
+**When to Use:**
+- **Later in the design process**
+- When presenting to **stakeholders or clients**
+- Before moving into **visual design or development**
+
+**Example Use Case:** Presenting a detailed wireframe of a mobile app login screen with real text and interactive behavior to get client approval before development.
+
+---
+
+Using both types of wireframes at the right stages helps teams iterate efficiently, reducing costly revisions later in the design cycle.
